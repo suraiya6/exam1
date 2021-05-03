@@ -15,17 +15,16 @@ body{
         background:  #E3516E;
 }
 
-.box {
-        position: absolute;
+.box {position: absolute;
     background: #2e3b4e;
     left: 0%;
     bottom: 0%;
     /* border: 1px solid; */
-    border-radius: 1px 6px 8px 300px;
-    width: 228px;
-    height: 234px;
-    /* right: 84%
-*/
+    border-radius: 0px 0px 0px 300px;
+    width: 226px;
+    height: 220px;
+    /* right: 84%; */
+
 }
 .box2{
 	position: absolute;
@@ -35,7 +34,7 @@ body{
     top: 0%;
     /* border: 1px solid; */
     border-radius: 214px 0px 0px 2px;
-    width: 228px;
+    width: 226px;
     height: 220px;
     right: 12;
 }
